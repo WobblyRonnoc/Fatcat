@@ -1,0 +1,19 @@
+Objective: Become a web developer. 
+Method: 
+- choose a specialization (front end or back end)
+	- research local or accessible job opportunities
+	- take skill share courses for deeper insight
+	- Front end (HTML, CSS, JavaScript) Back end (SQL, JavaScript, PHP)
+	
+-	Other bonus/wanted skills
+		- Git. for version control
+		- OCD attention to detail
+		- UI design
+		- basic SQL, PHP etc. & back end knowledge
+		
+- Education req.
+	- Bachelor's degree in Computer Science or equivalent 
+	- degree in computer science, computer engineering, or other relevant degree.
+	
+	Programs: Internet Applications and Web Development (Co-op) https://www.algonquincollege.com/sat/program/internet-applications-web-development/#overview
+				- I Need Mathematics, (Grade 12 MCT4C) or (Grade 11 MCR3U) or equivalent
